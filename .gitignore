@@ -1,0 +1,11 @@
+# Ignore dataset
+data.csv
+speeddating.csv
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
